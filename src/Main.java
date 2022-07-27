@@ -17,7 +17,7 @@ import java.lang.reflect.Proxy;
 public class Main {
 
     public static void main(String[] args) {
-        /*1
+        /*3
         HairInterface left = new LeftHair();
         left.draw();
 
